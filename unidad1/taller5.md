@@ -13,7 +13,7 @@
 
 Vas a crear un sitio de tipo proyecto/repositorio disponible en la siguiente URL:  `https://tu_nombre_de_usuario.github.io/actividad1_1/`
 
-Deberás por lo tanto crear un repositorio llamado **iaw** teniendo el sitio como rama origen el **directorio raíz** (/) de una rama llamada  ___gh-pages___ que deberás crear previamente. Esa sera la fuente de publicación del sitio.
+Deberás por lo tanto crear un repositorio llamado **actividad1_1** teniendo el sitio como rama origen el **directorio raíz** (/) de una rama llamada  ___gh-pages___ que deberás crear previamente. Esa sera la fuente de publicación del sitio.
 
 El sitio dispondrá de una página de inicio llamada **README.md** (también le puedes llamar **index.md**), con un **TABLA DE CONTENIDOS** (o índice) a los ejercicios 1 a 4  realizados hasta entonces. La página de inicio se deberá encontrar en el nivel superior de la carpeta origen, en este caso el **directorio raíz**(/) de ___gh-pages___. El nombre y ubicación de los ejercicios son los siguientes:
 
